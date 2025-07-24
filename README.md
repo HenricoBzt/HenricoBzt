@@ -1,4 +1,4 @@
-<h1>I am a Software Developer with a strong foundation in Python and modern web back‑end technologies.<h1>
+<h1>I am a Software Developer with a strong foundation in Python and modern web back‑end technologies.</h1>
 <p align="left">
   <br><br>
   • <strong>Built and maintained</strong> web applications using Django (including Django REST Framework) and FastAPI, following clean architectures (MVC) and best practices for asynchronous development.<br><br>
