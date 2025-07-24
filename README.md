@@ -1,11 +1,9 @@
+<h1>I am a Software Developer with a strong foundation in Python and modern web back‑end technologies.<h1>
 <p align="left">
-  I am a Software Developer with a strong foundation in Python and modern web back‑end technologies. Over the past few years, I have:<br><br>
+  <br><br>
   • <strong>Built and maintained</strong> web applications using Django (including Django REST Framework) and FastAPI, following clean architectures (MVC) and best practices for asynchronous development.<br><br>
-
   • <strong>Designed and versioned</strong> relational schemas with SQLAlchemy/Alembic and worked hands‑on with PostgreSQL/MySQL to ensure data integrity and performance.<br><br>
-
   • <strong>Created</strong> interactive dashboards and visualizations with Pandas, Matplotlib, and Chart.js to surface actionable insights in projects like EcoFin – my financial monitoring system.<br><br>
-
   • <strong>Collaborated</strong> on Git‑based workflows, containerized services with Docker, and deployed to Linux‑based servers.
 </p>
 
@@ -48,7 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HenricoBzt/HenricoBzt/output/snake.svg" alt="Snake animation" />
 
 ###
 
